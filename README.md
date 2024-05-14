@@ -1,4 +1,4 @@
-![32ad60b1-f74f-4282-a590-9395557ac410](https://github.com/muradmashhour/Exploring-NYC-Public-School-Test-Result-Scores/assets/143474411/8c5d7cd4-cbcb-411a-8c7f-19ad2d10b2d2)
+                  ![32ad60b1-f74f-4282-a590-9395557ac410](https://github.com/muradmashhour/Exploring-NYC-Public-School-Test-Result-Scores/assets/143474411/8c5d7cd4-cbcb-411a-8c7f-19ad2d10b2d2)
 
 
 Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a **maximum score of 800 points**. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
